@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "MyProject.src.App",
+            "projectName": "first_java_tutorial_a8ad2e69"
+        },
+        {
+            "type": "java",
+            "name": "Launch New",
+            "request": "launch",
+            "mainClass": "MyProject.src.New",
+            "projectName": "first_java_tutorial_a8ad2e69"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example",
+            "request": "launch",
+            "mainClass": "TestExample.src.Example",
+            "projectName": "first_java_tutorial_a8ad2e69"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example_1",
+            "request": "launch",
+            "mainClass": "TestExample.src.Example_1",
+            "projectName": "first_java_tutorial_a8ad2e69"
+        }
+    ]
+}
